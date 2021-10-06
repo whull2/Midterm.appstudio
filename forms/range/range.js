@@ -1,3 +1,4 @@
+
 numbersArray = []
 
 go.onclick=function(){
@@ -12,4 +13,5 @@ go.onclick=function(){
       lbl1.value = numbersArray[x]
       x++}
     }
+
     

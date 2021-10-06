@@ -1,4 +1,4 @@
-/*
+
 let storeProducts = ['milk', 'cheese', 'cream', 'eggs']
 
 let response = prompt('Do you want to add a new product or delete the last one in the array?(\'add\' or \'delete\')')
@@ -15,4 +15,3 @@ i = 0
 while(i <= storeProducts.length){
   console.log(storeProducts[i])
   i++}
-*/
